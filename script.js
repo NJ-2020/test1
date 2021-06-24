@@ -105,7 +105,7 @@ function showDetails(projectIndex) {
       </ul>
       <div class="buttons">
         <a href="${projects[projectIndex].liveSource}" class="btn">See Live <i class="fas fa-external-link-alt"></i></a>
-        <a href="${projects[projectIndex].sourceCode}" class="btn">See Live <i class="fab fa-github"></i></a>
+        <a href="${projects[projectIndex].sourceCode}" class="btn">See Source <i class="fab fa-github"></i></a>
       </div>
 
     </div>
